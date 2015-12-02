@@ -24,7 +24,7 @@ Android SDK依赖于Java运行环境，所以我们需要配置好Java环境
 
     打开命令行工具，输入“java -version”，出现如下画面则说明环境变量配置成功；
 
-    ![Screenshot](https://raw.githubusercontent.com/xiaolifan/React-native-for-android-learn-notes/Lesson1/images/java-environment-test.png)
+    ![Screenshot](https://raw.githubusercontent.com/xiaolifan/React-native-for-android-learn-notes/master/Lesson1/images/java-environment-test.png)
 
 ## 2、安装Android SDK并配置环境变量
 
